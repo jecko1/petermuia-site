@@ -251,7 +251,7 @@
     text-align: center;
     justify-content: center;
     background-image: linear-gradient(rgba(4, 9, 30, 0.3), rgba(4,9,30,0.5)),
-    url('/STATIC-SITE/PETERMUIA-SITE/MainHtmlFile/images/home.jpg');
+    url('images/home.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -320,7 +320,7 @@ button{
     }
     .section-home{
         background-image: linear-gradient(rgba(4, 9, 30, 0.3), rgba(4,9,30,0.5)),
-        url('/STATIC-SITE/PETERMUIA-SITE/MainHtmlFile/images/snow.jpg');
+        url('images/snow.jpg');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -343,7 +343,7 @@ button{
     }
     .section-home{
         background-image: linear-gradient(rgba(4, 9, 30, 0.3), rgba(4,9,30,0.5)),
-        url('/STATIC-SITE/PETERMUIA-SITE/MainHtmlFile/images/waynight.jpg');
+        url('images/waynight.jpg');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
