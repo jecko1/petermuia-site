@@ -251,7 +251,7 @@
     text-align: center;
     justify-content: center;
     background-image: linear-gradient(rgba(4, 9, 30, 0.3), rgba(4,9,30,0.5)),
-    url('/images/home.jpg');
+    url('/home.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
