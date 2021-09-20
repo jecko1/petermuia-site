@@ -842,7 +842,6 @@ We now start the second last pag for home page
     top: 0%;
     left: 0%;
     right: 0%;
-    /* transform: translate(0%, 0%); */
 }
 
 .section-contact h3{
@@ -854,7 +853,7 @@ We now start the second last pag for home page
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
 }
-.section-contact h3::before{
+.section-contact h3::after{
     content: '';
     width: 0%;
     display: block;
