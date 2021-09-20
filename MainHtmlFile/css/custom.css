@@ -931,7 +931,7 @@ input[type='checkbox']{
     .section-contact{
         width: 100%;
         background-image:linear-gradient(rgba(0,0,0,.8), rgba(0,0,0,.8)),
-        url('/STATIC-SITE/PETERMUIA-SITE/MainHtmlFile/images/office1\ \(1\).jpg');
+        url('../images/office1\ \(1\).jpg');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -976,7 +976,7 @@ input[type='checkbox']{
     .section-contact{
         width: 100%;
         background-image: linear-gradient(rgba(0,0,0, .6), rgba(0,0,0, .6)), 
-        url('/STATIC-SITE/PETERMUIA-SITE/MainHtmlFile/images/office1\ \(2\).jpg');
+        url('../images/office1\ \(2\).jpg');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -999,7 +999,7 @@ input[type='checkbox']{
         width: 100%;
         background-size: cover;
         background-image: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)),
-        url('/STATIC-SITE/PETERMUIA-SITE/MainHtmlFile/images/see.jpg');
+        url('../images/see.jpg');
         backdrop-filter: invert(.7);
         /* backdrop-filter: hue-rotate(120deg); */
     }
@@ -1025,7 +1025,7 @@ input[type='checkbox']{
     min-height: 100vh;
     clip-path: polygon(29% 12%,42% 0, 100% 0, 100% 80%,72% 94%, 32% 100%, 0 100%, 0 35%);
     background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(10, 9, 9, 0.6)),
-    url('/STATIC-SITE/PETERMUIA-SITE/MainHtmlFile/images/blog-img.jpg');
+    url('../images/blog-img.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1124,7 +1124,7 @@ a.shop:hover{
         min-height: 3rem auto;
         clip-path: none;
         background-image: linear-gradient(rgba(0,0,0, 0.8), rgba(10, 9, 9, 0.9)),
-        url('/STATIC-SITE/PETERMUIA-SITE/MainHtmlFile/images/blog-img.jpg');
+        url('../images/blog-img.jpg');
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -1317,22 +1317,3 @@ a.shop:hover{
         display: none;
     } */
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
